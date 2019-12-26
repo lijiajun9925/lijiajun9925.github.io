@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.NYS.youqianhua</string>
+				<string>com.Aime.GeShui002</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>悟空信贷</string>
+				<string>钱坤分期</string>
 			</dict>
 		</dict>
 	</array>
